@@ -1,0 +1,15 @@
+pycharm快捷键
+
+ctrl＋/   代买变成注释，或者取消注释
+ctrl＋d   做复制
+shift＋enter  不管光标在哪儿，直接在下一行回车
+
+
+06定义变量
+内存的地址一般采用16位
+
+
+Dashboard   控制台
+New repository  新建仓库
+Private   私人的？
+uploading an existing file    
